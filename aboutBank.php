@@ -13,7 +13,7 @@ include "includes/links.php";
   background-size: 100% 100%;
   background-attachment: fixed;
   width: 100%;
-  height: 100%;
+  height: 722px;
 }
 
 table, td, th {
